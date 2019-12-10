@@ -1,2 +1,2 @@
 # Simple-GB
-Simple GB Emulator Written in Javascript
+Simple GameBoy Emulator Written in Javascript
